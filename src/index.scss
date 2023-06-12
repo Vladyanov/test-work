@@ -1,0 +1,9 @@
+@import "~@csstools/normalize.css";
+@import url(./shared/css/base.css);
+@import url(./shared/css/variable.css);
+
+@font-face {
+  font-family: "CustomFont"; /* Замените 'CustomFont' на имя, которое вы хотите присвоить вашему шрифту */
+  src: url("./fonts/your-font.ttf") format("truetype"); /* Замените 'your-font.ttf' на имя вашего файла шрифта */
+  /* Дополнительные свойства шрифта (стиль, начертание и т. д.) */
+}

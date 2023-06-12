@@ -1,0 +1,22 @@
+.card {
+  width: 380px;
+  height: 460px;
+  border-radius: 20px;
+  background-image: url("../../assets/img/background-picture.png"),
+    linear-gradient(114.99deg, #471ca9 -0.99%, #5736a3 54.28%, #4b2a99 78.99%);
+  background-repeat: no-repeat;
+  background-position: center 28px;
+  // background-image: ;
+}
+
+.logo {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+
+.card_background {
+  position: absolute;
+  left: 36px;
+  top: 28px;
+}
